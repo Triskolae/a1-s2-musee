@@ -1,0 +1,5 @@
+- Intégration de la page de visite et de son lien dans page d'accueil.
+- Ajout d'une invention incroyable
+- "Refonte visuelle" -> changement ded couleur du titre, ajout de marges en mobile
+- Fusion des modifications précédentes sur main
+- Hotfix pour modification de l'heure de visite (699415bdcba7de81c9ee03e3070994a5dc1de0d6)
